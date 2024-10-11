@@ -9,10 +9,10 @@ I am a website and app developer and builder who builds my version of the digita
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCL2GEEiNzF7W2ENpeP6UH0A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/channel/UCL2GEEiNzF7W2ENpeP6UH0A">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCL2GEEiNzF7W2ENpeP6UH0A?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="(https://github.com/RidwanC134)?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/RidwanC134?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/RidwanC134?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/RidwanC134?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="(https://github.com/Dwanmrh)?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Dwanmrh?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Dwanmrh?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Dwanmrh?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -27,6 +27,8 @@ I am a website and app developer and builder who builds my version of the digita
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+          
 
 <br />
 
@@ -40,7 +42,7 @@ I am a website and app developer and builder who builds my version of the digita
 
 ### 📊 Stats
 
-![Dwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RidwanC134&show_icons=true&theme=gruvbox)
+![Dwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwanmrh&show_icons=true&theme=gruvbox)
 
 
 
